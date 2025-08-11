@@ -64,10 +64,5 @@ The dashboard supports:
 Optimized layouts for mobile and tablet viewing with touch-friendly interactions.
 
 ##  Contributing
-
 Feel free to fork this repository and submit pull requests for improvements or additional features.
-
-
-
-
 *Transform your sales data into actionable business insights*
